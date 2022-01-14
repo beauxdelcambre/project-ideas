@@ -1,0 +1,10 @@
+1   tourneymachine https://www.tourneymachine.com/Home.aspx
+2   teamsnap https://www.teamsnap.com/
+3   enterprise https://www.enterprise.com/en/home.html
+4   expedia https://www.expedia.com/
+5   amazon https://www.amazon.com/
+6   apple https://www.apple.com/
+7   dominos https://www.dominos.com/en/
+8   usps https://www.usps.com/
+9   whole foods https://www.wholefoodsmarket.com/
+10  hulu https://www.hulu.com/welcome
